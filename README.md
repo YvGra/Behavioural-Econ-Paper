@@ -1,10 +1,10 @@
 # Behavioural-Econ-Paper
 
-Welcome to our GitHub Repository for the course: Behavioural and Experimental Economics. 
-We deposited the following files, here: 
+Welcome to our GitHub Repository for the course: Behavioural & Experimental Economics. 
 
-## file 1 
+In this repo , you different R-Scripts, that were refered to in the paper. 
+If you have any questions regarding the code, please write an e-mail to: 
+yves.graedel@student.unisg.ch 
 
-## file 2 
 
 
